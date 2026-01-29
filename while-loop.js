@@ -60,3 +60,13 @@ Display sum of all the even numbers from 206 to 311.
 // }
 // console.log(evenSum);
 
+/*
+As Ersa is learning now, she wants to explore more and more. Tell Ersa to generate a multiplication table for number 5
+*/
+// let table = 5;
+// let count = 1;
+// while(count <= 10){
+//   let multiplication = table * count;
+//   console.log(multiplication);
+//   count++;
+// }

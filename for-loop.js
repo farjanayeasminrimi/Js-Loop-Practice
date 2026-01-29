@@ -67,8 +67,15 @@ Display sum of all the even numbers from 51 to 85.
 /*
 Generate a multiplication table for number 9
 */
-let table = 9;
-for(let count = 1; count<= 10; count++){
-  let multiplication = table * count;
-  console.log(multiplication);
+// let table = 9;
+// for(let count = 1; count<= 10; count++){
+//   let multiplication = table * count;
+//   console.log(multiplication);
+// }
+
+/*
+Implement a countdown timer that counts down from 81 to 65.
+*/
+for(let count = 81; count >= 65; count--){
+  console.log(count);
 }
