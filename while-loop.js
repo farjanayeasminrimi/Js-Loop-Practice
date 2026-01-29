@@ -70,3 +70,14 @@ As Ersa is learning now, she wants to explore more and more. Tell Ersa to genera
 //   console.log(multiplication);
 //   count++;
 // }
+
+
+/*
+Implement a countdown timer that counts down from 21 to 15.
+*/
+let count = 21;
+while(count>=15){
+  console.log(count);
+  count--;
+}
+
